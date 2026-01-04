@@ -1,0 +1,2 @@
+# Replication-Code.-When-Innovation-Matters_Growth-Environment-Dynamics-across-Income-Level
+Stata (.do) replication code (no raw data) for paper: Tu, T. A., Nguyen, H. L., &amp; Chu, T. M. P. (2025). When Innovation Matters: Growth-Environment Dynamics across Income Levels in Asia and Africa. SAGE Open. https://doi.org/10.1177/21582440251407881. Shared for academic reference and to demonstrate Stata skills; not licensed for commercial use. 
